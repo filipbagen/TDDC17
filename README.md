@@ -26,10 +26,10 @@ We used Bayesian Networks to analyze melt-down risks in a power plant, evaluated
 
 ## Lab 5
 
-We did reinforcement learning to train a rocket to hover by discretizing its angle and velocity and using Q-learning updates based on specified rewards, and observed that without exploration the agent only performs its initial random action.
+We did reinforcement learning to train a rocket to hover by discretizing its angle and velocity and using Q-learning updates based on specified rewards.
 
 ![](data/lab5.gif)
 
 ## Lab 6
 
-We modeled a planning task for our household robot to unlock doors using the Unified Planning Library and then applied greedy best-first search and A\* search techniques to determine optimal plans and their associated costs.
+We modeled a planning task for a household robot to unlock doors using the Unified Planning Library and then applied greedy best-first search and A\* search techniques to determine optimal plans and their associated costs.
